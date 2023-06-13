@@ -55,18 +55,4 @@ It is that simple.
 - [ ] Splash screen 
 - [ ] Share and fav buttons 
 
-## Meta
 
-Atiq Samtia– [@AtiqSamtia](https://twitter.com/atiqsamtia) – me@atiqsamtia.com
-
-Distributed under the GPL3 license.
-
-[https://github.com/atiqsamtia/WordPress-App-with-Flutter](https://github.com/atiqsamtia/WordPress-App-with-Flutter)
-
-## Contributing
-
-1. Fork it (<https://github.com/atiqsamtia/WordPress-App-with-Flutter/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
